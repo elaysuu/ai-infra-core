@@ -1,8 +1,5 @@
-// ai-infra — Shared AI Infrastructure
-// Standalone library. Zero BizMate dependencies.
-
-export * from './types';
-export * from './classifiers';
-export * from './governance';
-export * from './memory';
-export * from './queue';
+export * from './types/index.js';
+export * from './memory/index.js';
+export * from './governance/index.js';
+export * from './classifiers/index.js';
+export * from './queue/index.js';

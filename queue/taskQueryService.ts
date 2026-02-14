@@ -1,5 +1,5 @@
-import { TaskStatus } from '../types/task';
-import type { TaskStore, StoredTask } from './taskStore';
+import { TaskStatus } from '../types/task.js';
+import type { TaskStore, StoredTask } from './taskStore.js';
 
 // ============================================================================
 // QUERY ERRORS

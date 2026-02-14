@@ -6,7 +6,7 @@
  * Deterministic. No LLM calls.
  */
 
-import { RiskLevel, type RiskClassification } from '../types/local';
+import { RiskLevel, type RiskClassification } from '../types/local.js';
 
 // ============================================================================
 // RISK TRIGGER DEFINITIONS

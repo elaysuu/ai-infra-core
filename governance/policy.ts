@@ -5,7 +5,7 @@
  * NO evaluation logic - interfaces and type definitions only.
  */
 
-import type { RouterInput, ExecutionPath } from '../types/router';
+import type { RouterInput, ExecutionPath } from '../types/router.js';
 
 // ============================================================================
 // POLICY PRIORITY

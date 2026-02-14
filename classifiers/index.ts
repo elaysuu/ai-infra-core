@@ -1,1 +1,1 @@
-export { classifyRisk } from './riskClassifier';
+export * from './riskClassifier.js';

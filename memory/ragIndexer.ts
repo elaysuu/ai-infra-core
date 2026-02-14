@@ -1,5 +1,5 @@
-import type { Embedder, IndexerInput, VectorRecord } from './types';
-import type { VectorStore } from './vectorStore';
+import type { Embedder, IndexerInput, VectorRecord } from './types.js';
+import type { VectorStore } from './vectorStore.js';
 
 // ============================================================================
 // INDEXER ERRORS

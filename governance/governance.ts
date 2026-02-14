@@ -5,7 +5,7 @@
  * NO logging implementation - types and interfaces only.
  */
 
-import type { RouterInput, RouterDecision, ExecutionPath } from '../types/router';
+import type { RouterInput, RouterDecision, ExecutionPath } from '../types/router.js';
 
 // ============================================================================
 // AUDIT EVENT

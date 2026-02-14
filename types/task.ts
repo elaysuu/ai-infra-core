@@ -1,4 +1,4 @@
-import { ExecutionPath } from './router';
+import { ExecutionPath } from './router.js';
 
 // ============================================================================
 // TASK STATUS

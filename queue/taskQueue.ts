@@ -1,4 +1,4 @@
-import { TaskStatus, type AgentTask } from '../types/task';
+import { TaskStatus, type AgentTask } from '../types/task.js';
 
 // ============================================================================
 // TASK QUEUE INTERFACE

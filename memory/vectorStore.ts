@@ -1,4 +1,4 @@
-import type { Embedding, VectorRecord, MemoryScope } from './types';
+import type { Embedding, VectorRecord, MemoryScope } from './types.js';
 
 // ============================================================================
 // SIMILARITY QUERY

@@ -1,4 +1,4 @@
-import { TaskStatus, type AgentTask, type ExecutionResult } from '../types/task';
+import { TaskStatus, type AgentTask, type ExecutionResult } from '../types/task.js';
 
 // ============================================================================
 // STORED TASK RECORD

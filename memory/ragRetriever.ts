@@ -1,5 +1,5 @@
-import type { Embedder, RetrievalQuery, RetrievalResult } from './types';
-import type { VectorStore } from './vectorStore';
+import type { Embedder, RetrievalQuery, RetrievalResult } from './types.js';
+import type { VectorStore } from './vectorStore.js';
 
 // ============================================================================
 // RETRIEVER ERRORS

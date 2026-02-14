@@ -6,3 +6,4 @@ dist/
 *.d.ts.map
 !index.ts
 .DS_Store
+__backup_*/
